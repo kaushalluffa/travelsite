@@ -6,6 +6,8 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  padding-left: 100px;
+  padding-rigth: 100px;
 }
 .hero__container-text {
   color: #335576;
